@@ -1,5 +1,5 @@
 ## 🦂 Gael 🦂
-<a href="[https://open.spotify.com/user/ejcs.ggg](https://open.spotify.com/user/p91gairqjwa601tpgs71ygpud)">
+<a href="https://open.spotify.com/user/p91gairqjwa601tpgs71ygpud?si=6433b9f5744a40c3">
   <img align="left" alt="22px" width="22px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-photo-of-logo-16.png"/>
 </a>
 
