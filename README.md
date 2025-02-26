@@ -176,7 +176,7 @@ Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, e
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Gaeleite&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
