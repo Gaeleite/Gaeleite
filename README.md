@@ -170,7 +170,7 @@ Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, e
 <br/>
 
 ---
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
   <img 
@@ -189,7 +189,7 @@ Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, e
   />
 </p>
 
-  Contador de Visitas</br>
+##Contador de Visitas</br>
  </p>
  <img src="https://profile-counter.glitch.me/gaeleite/count.svg" />
 </div>
