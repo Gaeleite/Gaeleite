@@ -69,6 +69,7 @@ Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, e
     alt="Java"
     title="Java" 
     width="30px"
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
@@ -76,6 +77,7 @@ Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, e
     alt="python"
     title="python"
     width="30px"
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
@@ -83,6 +85,7 @@ Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, e
     alt="mysql"
     title="mysql" 
     width="30px"
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
 />
 <img 
@@ -90,14 +93,16 @@ Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, e
     alt="Git"
     title="Git" 
     width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-    
+
 <img 
     align="left" 
     alt="Github"
     title="Github" 
     width="30px"
+    style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
    />
 <img 
@@ -105,6 +110,7 @@ Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, e
     alt="Linux"
     title="Linux" 
     width="30px"
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 <img 
@@ -120,6 +126,7 @@ Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, e
     alt="vscode"
     title="vscode" 
     width="30px"
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 <img 
@@ -127,21 +134,25 @@ Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, e
     alt="JetBrains"
     title="JetBrains" 
     width="30px"
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" 
 /><img align="left" 
     alt="Notion"
     title="Notion" 
     width="30px"
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" /><img align="left"
     alt="trello"
     title="trello" 
     width="30px"
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
        <img 
     align="left" 
     alt="photoshop"
     title="photoshop"
     width="30px"
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" /><img 
     align="left" 
     alt="Canva"
@@ -153,10 +164,14 @@ Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, e
     alt="Gimp"
     title="Gimp" 
     width="30px"
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
 <br/>
 <br/>
+
+---
 ### 📊 Estatísticas
+
 <p>
   <img 
     align="left" 
@@ -173,5 +188,3 @@ Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, e
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeleite&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
-
