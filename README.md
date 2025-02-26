@@ -65,7 +65,8 @@ Bom dia, meu nome é João Gabriel Leite Silva, tenho 20 anos e sou natural de S
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
-<img 
+<img
+  href="https://www.mysql.com/"
     align="left" 
     alt="Java"
     title="Java" 
