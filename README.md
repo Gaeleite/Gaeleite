@@ -1,18 +1,19 @@
-# 🦂 Gabriel Leite 🦂
+## Hi, I'm Gael <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 🦂
+<a href="https://open.spotify.com/user/ejcs.ggg">
+  <img align="left" alt="22px" width="22px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-photo-of-logo-16.png"/>
+</a>
 
-**`Analista de Banco de Dados`**
+**`Estudante de Programação`**
 
-Bom dia, meu nome é João Gabriel Leite Silva, tenho 20 anos e sou natural de São Luís. 
-Estou cursando atualmente, o curso superior de Bacharelado de Sistemas de Informação, no [Instituto Federal do Maranhão](https://portal.ifma.edu.br/inicio/), com inicio em Agosto 2022 e com previsão de finalizar em Julho 2026.
-Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, em conjunto com suas sub áreas.
+Bom dia, meu nome é João Gabriel Leite Silva, tenho 20 anos e sou natural de São Luís. Estou cursando atualmente, o curso superior de Bacharelado de Sistemas de Informação, no [Instituto Federal do Maranhão](https://portal.ifma.edu.br/inicio/), com inicio em Agosto 2022 e com previsão de finalizar em Julho 2026. Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, em conjunto com suas sub áreas.
 
 <p align="left">
     <!-- Badge do LinkedIn -->
     <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-leite-silva-332602276/">
         <img 
-            alt="Linkedin" 
+            alt="LinkedIn" 
             title="Acesso ao meu Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/-Conecte--se-4169e1?logo=person-add&logoColor=white&style=for-the-badge&labelColor=2E3440"
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-4169e1?logo=person-add&logoColor=white&style=for-the-badge&labelColor=2E3440"
         />
     </a>
     <!-- Badge do Replit -->
@@ -170,22 +171,11 @@ Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, e
 
 ## 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Gaeleite&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="220" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeleite&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-<p>
+<div align="center">
+  <a href="https://github.com/gaeleite">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaeleite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaeleite&layout=compact&langs_count=7&theme=dracula"/>
+</div>
     
 ## Contador de Visitas
 <p>
