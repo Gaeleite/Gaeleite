@@ -156,8 +156,6 @@ Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, e
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
 <br/>
 <br/>
-
-    <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
