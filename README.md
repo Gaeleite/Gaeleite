@@ -50,6 +50,7 @@ Bom dia, meu nome é João Gabriel Leite Silva, tenho 20 anos e sou natural de S
     </a>
 
 ## Linguagens e Tecnologias🤖
+<a href="https://open.spotify.com/user/p91gairqjwa601tpgs71ygpud?si=6433b9f5744a40c3">
 <img  
     align="left" 
     alt="C"
