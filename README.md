@@ -1,4 +1,4 @@
-## Hi, I'm Gael <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 🦂
+## 🦂 Gael 🦂
 <a href="https://open.spotify.com/user/ejcs.ggg">
   <img align="left" alt="22px" width="22px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-photo-of-logo-16.png"/>
 </a>
