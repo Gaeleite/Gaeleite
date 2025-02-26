@@ -185,7 +185,6 @@ Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, e
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeleite&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+<p/>
 ## Contador de Visitas
-
  <img src="https://profile-counter.glitch.me/gaeleite/count.svg" />
