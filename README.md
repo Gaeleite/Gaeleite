@@ -167,9 +167,7 @@ Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
 <br/>
-<br/>
 
----
 ## 📊 Estatísticas
 
 <p>
@@ -187,9 +185,7 @@ Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, e
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeleite&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
 
-##Contador de Visitas</br>
- </p>
+## Contador de Visitas
+
  <img src="https://profile-counter.glitch.me/gaeleite/count.svg" />
-</div>
