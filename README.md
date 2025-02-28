@@ -53,7 +53,7 @@ Bom dia, meu nome é João Gabriel Leite Silva, tenho 20 anos e sou natural de S
         />
     </a>
 
-## Linguagens e Tecnologias🤖
+## 🤖Linguagens e Tecnologias
   <a href="https://embarcados.com.br/linguagem-c-guia-completo/"> 
 <img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
   <a href="https://www.alura.com.br/artigos/csharp-linguagem-programacao-dotnet?srsltid=AfmBOopNc0sWE_bCJkMRVvq05X-1HL0opoM1SZdfEjDvyv78D7xOwSL7">
@@ -88,20 +88,17 @@ Bom dia, meu nome é João Gabriel Leite Silva, tenho 20 anos e sou natural de S
 <img align="left" alt="Gimp" title="Gimp" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg"/>
     <br/>
 
-## 📊 Estatísticas
-
+## 📊Estatísticas
 <div align="center">
   <a href="https://github.com/gaeleite">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaeleite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaeleite&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
-## Contador de Visitas
-<p>
-    <img src="https://profile-counter.glitch.me/gaeleite/count.svg" />
+## ✔Contador de Visitas
+<img src="https://profile-counter.glitch.me/gaeleite/count.svg" />
 
-## Snake
-
+## 🐍Snake
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaeleite/gaeleite/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaeleite/gaeleite/output/github-contribution-grid-snake-dark.svg">
