@@ -41,7 +41,7 @@ Bom dia, meu nome é João Gabriel Leite Silva, tenho 20 anos e sou natural de S
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gaeleite?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Gaeleite?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <!-- Badge dos seguidores do Github-->
