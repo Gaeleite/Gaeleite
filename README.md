@@ -9,7 +9,7 @@
 
 **`Estudante de Programação`**
 
-Bom dia, meu nome é João Gabriel Leite Silva, tenho 20 anos e sou natural de São Luís. Estou cursando atualmente, o curso superior de Bacharelado de Sistemas de Informação, no [Instituto Federal do Maranhão](https://portal.ifma.edu.br/inicio/), com inicio em Agosto 2022 e com previsão de finalizar em Julho 2026. Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, em conjunto com suas sub áreas.
+Bom dia, meu nome é João Gabriel Leite Silva, tenho 21 anos e sou natural de São Luís. Estou cursando atualmente, o curso superior de Bacharelado de Sistemas de Informação, no [Instituto Federal do Maranhão](https://portal.ifma.edu.br/inicio/), com inicio em Agosto 2022 e com previsão de finalizar em Dezembro 2026. Sou focado em aprender e atuar em Segurança da Informação e Banco de dados, em conjunto com suas sub áreas.
 
 <p align="left">
     <!-- Badge do LinkedIn -->
