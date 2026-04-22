@@ -94,13 +94,14 @@ Bom dia, meu nome é João Gabriel Leite Silva, tenho 20 anos e sou natural de S
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaeleite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaeleite&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-    
+<!--    
 ## ✔Contador de Visitas
 <img src="https://profile-counter.glitch.me/gaeleite/count.svg" />
-
+<!--    
 ## 🐍Snake
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaeleite/gaeleite/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaeleite/gaeleite/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gaeleite/gaeleite/output/github-contribution-grid-snake.svg">
 </picture>
+--!>
