@@ -26,17 +26,6 @@
 - 🇪🇸 Espanhol (Intermediário)
 - 🇨🇳 Chinês (Em aprendizado)
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaeleite&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeleite&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
----
-
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
@@ -90,14 +79,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/Gaeleite?style=for-the-badge&color=55960c&label=⭐%20Estrelas)](https://github.com/Gaeleite?tab=repositories&sort=stargazers)
 [![GitHub Followers](https://img.shields.io/github/followers/Gaeleite?style=for-the-badge&color=d22e2e&label=👥%20Seguidores)](https://github.com/Gaeleite?tab=followers)
 
-</div>
-
----
-
-## 📈 Atividade Recente
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaeleite&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
 </div>
 
 ---
