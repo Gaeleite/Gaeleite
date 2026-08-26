@@ -28,15 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaeleite&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeleite&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
----
-
 ## 🚀 Technologies & Tools
 
 <div align="center">
@@ -69,14 +60,6 @@
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" title="Notion"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" title="Trello"/>
 
-</div>
-
----
-
-## 📈 Recent Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaeleite&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
 </div>
 
 ---
