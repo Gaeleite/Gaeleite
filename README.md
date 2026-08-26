@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Gabriel Leite
+# 👋 Hi! I'm Gabriel Leite
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -14,34 +14,45 @@
 
 ---
 
-## 🎓 Sobre Mim
+## 🎓 About Me
 
-**Olá!** Meu nome é **João Gabriel Leite Silva**, tenho 21 anos e sou natural de São Luís - MA. Atualmente, estou cursando **Bacharelado em Sistemas de Informação** no [Instituto Federal do Maranhão](https://portal.ifma.edu.br/inicio/) (2022 - 2026).
+**Hello!** My name is **João Gabriel Leite Silva**, I'm 21 years old and I'm from São Luís - MA, Brazil. I'm currently pursuing a **Bachelor's Degree in Information Systems** at the [Federal Institute of Maranhão](https://portal.ifma.edu.br/inicio/) (2022 - 2026).
 
-💡 Sou apaixonado por **Segurança da Informação** e **Banco de Dados**, áreas nas quais pretendo me especializar e construir minha carreira. Estou sempre em busca de novos conhecimentos e desafios que me permitam crescer como profissional e como pessoa.
+💡 I'm passionate about **Information Security** and **Databases** — areas I plan to specialize in and build my career around. I'm always seeking new knowledge and challenges that allow me to grow both professionally and personally.
 
-🌍 **Idiomas:**
-- 🇧🇷 Português (Nativo)
-- 🇺🇸 Inglês (Fluente)
-- 🇪🇸 Espanhol (Intermediário)
-- 🇨🇳 Chinês (Em aprendizado)
+🌍 **Languages:**
+- 🇧🇷 Portuguese (Native)
+- 🇺🇸 English (Fluent)
+- 🇪🇸 Spanish (Intermediate)
+- 🇨🇳 Chinese (Learning)
 
-## 🚀 Tecnologias & Ferramentas
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaeleite&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeleite&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+---
+
+## 🚀 Technologies & Tools
 
 <div align="center">
 
-### 💻 Linguagens de Programação
+### 💻 Programming Languages
 
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
 
-### 🗄️ Banco de Dados
+### 🗄️ Databases
 
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" title="MySQL"/>
 
-### 🛠️ Ferramentas & DevOps
+### 🛠️ Tools & DevOps
 
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="GitHub"/>
@@ -50,7 +61,7 @@
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" title="JetBrains"/>
 
-### 🎨 Design & Produtividade
+### 🎨 Design & Productivity
 
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="Photoshop"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" title="Canva"/>
@@ -62,7 +73,15 @@
 
 ---
 
-## 🔗 Conecte-se Comigo
+## 📈 Recent Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaeleite&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🔗 Connect With Me
 
 <div align="center">
 
@@ -76,8 +95,8 @@
 
 <div align="center">
 
-[![GitHub Stars](https://img.shields.io/github/stars/Gaeleite?style=for-the-badge&color=55960c&label=⭐%20Estrelas)](https://github.com/Gaeleite?tab=repositories&sort=stargazers)
-[![GitHub Followers](https://img.shields.io/github/followers/Gaeleite?style=for-the-badge&color=d22e2e&label=👥%20Seguidores)](https://github.com/Gaeleite?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/Gaeleite?style=for-the-badge&color=55960c&label=⭐%20Stars)](https://github.com/Gaeleite?tab=repositories&sort=stargazers)
+[![GitHub Followers](https://img.shields.io/github/followers/Gaeleite?style=for-the-badge&color=d22e2e&label=👥%20Followers)](https://github.com/Gaeleite?tab=followers)
 
 </div>
 
@@ -88,5 +107,5 @@
 </div>
 
 <div align="center">
-  <sub>⚡ "A persistência é o caminho do êxito." — Charles Chaplin ⚡</sub>
+  <sub>⚡ "Persistence is the path to success." — Charles Chaplin ⚡</sub>
 </div>
